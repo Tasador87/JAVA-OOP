@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8caa2b4b-08d0-4cd3-8c6e-0584a422db56" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Exercises/CardSuit_01.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/CardSuits_01/CardSuits.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/CardRank_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/CardsWithPower_03/Rank.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/CardsWithPower_03/Suit.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/CardsWithPower_03/Main.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/TraficLights_04/Light.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/JedyGalaxy_05/Main.java" />
+        <option value="$PROJECT_DIR$/sr
